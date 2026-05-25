@@ -1,3 +1,6 @@
+tournamentconspire.top
+tournamentbuffalo.top
+tournamentappraisal.top
 tourmaneuver.top
 touristprestige.top
 touristexquisite.top
@@ -69995,9 +69998,6 @@ xn--ziraatbank-poa.ml
 giris-dijital-mobil-esube.ml
 xn--ziraatbank-tr-nsa.com
 turkiye-islem.com
-vqdenizbank.com
-www-cimmergovtr.com
-edevlet-aidatbasvurungovtr.com
 vqdenizbank.com
 www-cimmergovtr.com
 edevlet-aidatbasvurungovtr.com
