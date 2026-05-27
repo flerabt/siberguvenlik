@@ -1,3 +1,7 @@
+pinmow.top
+pinkorphan.top
+pineloop.top
+pinedisposition.top
 pinchslitary.top
 pillsibling.top
 pillquest.top
@@ -119994,8 +119998,4 @@ becu-info.hopto.org
 isecureinfo33verify.hopto.org
 tiphanishoulderi.hopto.org
 office365-userauth.hopto.org
-isecureinfo03verify.hopto.org
-uahfudshufsdh.hopto.org
-labanquepostales.hopto.org
-becuinf.hopto.org
 
