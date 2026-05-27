@@ -1,3 +1,4 @@
+pintmingle.top
 pinmow.top
 pinkorphan.top
 pineloop.top
@@ -119997,5 +119998,4 @@ security-olinepasse.hopto.org
 becu-info.hopto.org
 isecureinfo33verify.hopto.org
 tiphanishoulderi.hopto.org
-office365-userauth.hopto.org
 
