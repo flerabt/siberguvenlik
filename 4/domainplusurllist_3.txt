@@ -1,3 +1,7 @@
+plantemulation.top
+plantationsob.top
+plantationlogistical.top
+plantationcertification.top
 plantapel.top
 plansynthesise.top
 planstagnation.top
@@ -119994,8 +119998,4 @@ diepost.hopto.org
 aol98.hopto.org
 secure-server01.hopto.org
 lts-me.hopto.org
-ltsme.hopto.org
-valus.hopto.org
-ceaqwjwe.hopto.org
-msexcel.hopto.org
 
