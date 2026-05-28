@@ -1,3 +1,7 @@
+diepost.hopto.org
+aol98.hopto.org
+secure-server01.hopto.org
+lts-me.hopto.org
 ltsme.hopto.org
 valus.hopto.org
 ceaqwjwe.hopto.org
