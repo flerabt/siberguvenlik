@@ -1,3 +1,8 @@
+netflixsecure.hopto.org
+argalicsrv0nlne.hopto.org
+secured-loginserver.hopto.org
+secure03b-auth.hopto.org
+amsuzonamsuzn.hopto.org
 secu-rityddns.hopto.org
 galicsonlin3serv.hopto.org
 dark100.hopto.org
