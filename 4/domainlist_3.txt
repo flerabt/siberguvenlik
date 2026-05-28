@@ -1,3 +1,8 @@
+playerallergic.top
+plausiblespiral.top
+platformshipyard.top
+platformrepressive.top
+platformreassure.top
 platformlinen.top
 plateturbulent.top
 plateready.top
@@ -119993,9 +119998,4 @@ dark100.hopto.org
 verify-wellsfargo.hopto.org
 amazonemai1.hopto.org
 aleanazoneelectric.hopto.org
-daerahterpencil.hopto.org
-peternakan.hopto.org
-onlineauth05.hopto.org
-secur4-all04.hopto.org
-ggbro12.hopto.org
 
