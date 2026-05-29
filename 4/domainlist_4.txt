@@ -1,3 +1,5 @@
+updatepaypal.hopto.org
+instaggram.hopto.org
 docomoa.hopto.org
 restoresyspas.hopto.org
 sharedsignaturedocs.hopto.org
