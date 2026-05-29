@@ -1,3 +1,5 @@
+pointterminate.top
+pointlessheave.top
 pointlesscompile.top
 pointcathedral.top
 poindom.top
@@ -119996,6 +119998,4 @@ jagungdibakar.hopto.org
 onlinebanking-becu.hopto.org
 mohamedabdallah.hopto.org
 ekuronew.hopto.org
-wwwhuntnow.hopto.org
-serviceleboncoin.hopto.org
 
