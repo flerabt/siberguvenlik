@@ -1,3 +1,4 @@
+venmoauthorization.hopto.org
 coinbaseverify.hopto.org
 verifiedauth.hopto.org
 venmoauth.hopto.org
