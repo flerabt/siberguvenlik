@@ -1,3 +1,5 @@
+policemanhemisphere.top
+policeflash.top
 policeafloat.top
 poledilution.top
 polarverse.top
@@ -119996,6 +119998,4 @@ cpnrdr.hopto.org
 chaseonlinesupport.hopto.org
 1110.hopto.org
 uphostredir09secure.hopto.org
-swisscom-yy.hopto.org
-mychi.hopto.org
 
