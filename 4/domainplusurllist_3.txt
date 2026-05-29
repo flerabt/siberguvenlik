@@ -1,3 +1,6 @@
+pmdkys.top
+plusfabricate.top
+plusannex.top
 plurallieutenant.top
 plungeluminous.top
 plun21geabsurd.top
@@ -119995,7 +119998,4 @@ venmoauth.hopto.org
 server09s-update.hopto.org
 updatepaypal.hopto.org
 instaggram.hopto.org
-docomoa.hopto.org
-restoresyspas.hopto.org
-sharedsignaturedocs.hopto.org
 
