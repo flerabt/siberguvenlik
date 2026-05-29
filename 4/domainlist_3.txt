@@ -1,3 +1,5 @@
+pointlesscompile.top
+pointcathedral.top
 poindom.top
 poetrycorporal.top
 poetryanonymous.top
@@ -119996,6 +119998,4 @@ mohamedabdallah.hopto.org
 ekuronew.hopto.org
 wwwhuntnow.hopto.org
 serviceleboncoin.hopto.org
-9shams.hopto.org
-sladejdefiningq.hopto.org
 
