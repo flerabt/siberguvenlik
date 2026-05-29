@@ -1,3 +1,7 @@
+coinbaseverify.hopto.org
+verifiedauth.hopto.org
+venmoauth.hopto.org
+server09s-update.hopto.org
 updatepaypal.hopto.org
 instaggram.hopto.org
 docomoa.hopto.org
