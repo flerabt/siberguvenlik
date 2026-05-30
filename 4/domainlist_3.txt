@@ -1,3 +1,8 @@
+pollsterconverse.top
+pollstate.top
+pollideological.top
+pollbenevolence.top
+pollallude.top
 politicianrandom.top
 politiciancoincidence.top
 politicalthermal.top
@@ -119993,9 +119998,4 @@ myworkinggrace.hopto.org
 skinsml-free16.hopto.org
 future-management.hopto.org
 secuire-wells.hopto.org
-accountsecure.hopto.org
-mtbbounc.hopto.org
-celebrity.hopto.org
-updatebecu-info.hopto.org
-coinbaseverifypltyr.hopto.org
 
