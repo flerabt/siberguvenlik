@@ -1,3 +1,5 @@
+becu-auth2.hopto.org
+becu-auth9.hopto.org
 grandtiger.hopto.org
 accountupdatesma.hopto.org
 accessusermailt.hopto.org
