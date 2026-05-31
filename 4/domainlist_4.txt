@@ -1,3 +1,5 @@
+verificatonhosted.hopto.org
+verficationchout001.hopto.org
 becu-auth2.hopto.org
 becu-auth9.hopto.org
 grandtiger.hopto.org
