@@ -1,3 +1,6 @@
+latency.hopto.org
+putcalligoanswer.hopto.org
+joinvvvvip-grub87.hopto.org
 secure08bloginchase.hopto.org
 shegw583reg.hopto.org
 support-becu.hopto.org
