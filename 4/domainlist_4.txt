@@ -1,3 +1,7 @@
+cmd.zapto.org
+gozgoz.zapto.org
+root01.zapto.org
+mama12544.zapto.org
 flaboyserver.zapto.org
 attynko.zapto.org
 matrock.zapto.org
