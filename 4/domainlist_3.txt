@@ -1,3 +1,6 @@
+proficientnumerical.top
+proficientcrust.top
+proficientarch.top
 professorreassure.top
 professorman.top
 professionoffset.top
@@ -119995,7 +119998,4 @@ accntbsns7.duckdns.org
 avtni.duckdns.org
 ayixu.duckdns.org
 bfcyv.duckdns.org
-bxsnj.duckdns.org
-bxspd.duckdns.org
-kmorqhffmn.duckdns.org
 
