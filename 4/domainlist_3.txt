@@ -1,3 +1,6 @@
+ranchaugmentation.top
+rampresponse.top
+rallysearch.top
 rallylife.top
 rallydiversify.top
 rallycopy.top
@@ -119995,7 +119998,4 @@ fedex-2021.hopto.org
 securemtbaccess.hopto.org
 srfer.hopto.org
 alimansur.hopto.org
-safe-mtbbanking.hopto.org
-nikoextazy1.hopto.org
-alertaapple.hopto.org
 
