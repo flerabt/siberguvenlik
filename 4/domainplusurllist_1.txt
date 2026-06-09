@@ -1,3 +1,4 @@
+sozlesmepoliceniz.sbs
 koveytturk.duckdns.org
 tmosalmevzular.com
 isbirligi.click
@@ -119997,5 +119998,4 @@ pttgov-co.top
 pttgov-cc.top
 pttgov-vt.top
 pttgov-jt.top
-pttgov-to.top
 
