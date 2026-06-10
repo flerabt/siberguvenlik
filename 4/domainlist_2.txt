@@ -1,3 +1,6 @@
+pttgov-tof.top
+pttgov-tom.top
+pttgov-tou.top
 101hemenkapinizda.com
 ptt-gov-tur.one
 ihazinegovtrts133.b-cdn.net
@@ -119995,7 +119998,4 @@ refutationauditor.top
 refutatinstalk.top
 refusestrain.top
 refuserough.top
-refusecontemplation.top
-refusalillumination.top
-refundadversary.top
 
