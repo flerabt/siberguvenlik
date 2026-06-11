@@ -1,3 +1,5 @@
+limited-paypalserv.zapto.org
+windowold.zapto.org
 drang.zapto.org
 1337.zapto.org
 yc883.zapto.org
