@@ -1,3 +1,5 @@
+retirementskull.top
+retirementartifact.top
 retiredretrospect.top
 retiredhemisphere.top
 retiredadolescence.top
@@ -119996,6 +119998,4 @@ fbyup.duckdns.org
 app-standars-html.duckdns.org
 w5h966e.duckdns.org
 niay2e47t.duckdns.org
-issue-0387993918818.duckdns.org
-lracntsuspnsion019872.duckdns.org
 
