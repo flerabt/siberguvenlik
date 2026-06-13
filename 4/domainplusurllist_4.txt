@@ -1,3 +1,7 @@
+info-secure42b.hopto.org
+isecureinfo09chase.hopto.org
+info-verify72b.hopto.org
+info-secure77b.hopto.org
 isecureinfo01verifn.hopto.org
 isecureinfo04verifn.hopto.org
 isec-01infoverifp.hopto.org
