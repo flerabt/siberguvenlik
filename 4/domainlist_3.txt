@@ -1,3 +1,5 @@
+sandshrimp.top
+sandrepressive.top
 sanctuaryturtle.top
 sanctuarystoop.top
 sanctuaryerupt.top
@@ -119996,6 +119998,4 @@ javaclients.hopto.org
 secu03b-onlinechase.hopto.org
 asasdq.hopto.org
 hacked1334.hopto.org
-redirectorservicen.hopto.org
-xapangu.hopto.org
 
