@@ -1,3 +1,7 @@
+rumourprecedent.top
+rulestraightforward.top
+rulerhumanitarian.top
+rulemartyrdom.top
 rulehurl.top
 rulecolonel.top
 rujgju.top
@@ -119994,8 +119998,4 @@ infosecurverif4n.hopto.org
 info-verify32a.hopto.org
 info-verify71b.hopto.org
 info-secure81b.hopto.org
-info-secure42b.hopto.org
-isecureinfo09chase.hopto.org
-info-verify72b.hopto.org
-info-secure77b.hopto.org
 
