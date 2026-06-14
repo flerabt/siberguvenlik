@@ -1,3 +1,8 @@
+apple-com.hopto.org
+nakamura.hopto.org
+bigfoots.hopto.org
+0743.hopto.org
+moris.hopto.org
 secure08dchasesec.hopto.org
 sro.hopto.org
 loginaccunte.hopto.org
