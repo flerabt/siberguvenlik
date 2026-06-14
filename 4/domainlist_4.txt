@@ -1,3 +1,5 @@
+poste-be.hopto.org
+izu2128.hopto.org
 transpo.hopto.org
 03chaseauthverify.hopto.org
 pays-centers.hopto.org
