@@ -1,3 +1,8 @@
+singlevelocity.top
+singletribal.top
+singleredundant.top
+singerindignation.top
+singchief.top
 sinceritytance.top
 sinceritygroove.top
 sinceriduct.top
@@ -119993,9 +119998,4 @@ wellsfargo-statement-online.duckdns.org
 espace-client-sg-fr.duckdns.org
 charybdis-sb.duckdns.org
 8hzon2n7p.duckdns.org
-issue-3004797660586.duckdns.org
-aiglpb5.duckdns.org
-9djuknqc.duckdns.org
-9vx2p7.duckdns.org
-7do07b9ba.duckdns.org
 
