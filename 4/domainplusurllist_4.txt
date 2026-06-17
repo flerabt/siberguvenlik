@@ -1,3 +1,8 @@
+almisany.hopto.org
+clayhost.hopto.org
+artwell8.hopto.org
+martin11.hopto.org
+caixa-banking.hopto.org
 doil.hopto.org
 graceofgood.hopto.org
 dr.hopto.org
