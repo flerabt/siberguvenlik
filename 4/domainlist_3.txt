@@ -1,3 +1,4 @@
+smokewear.top
 smoketrauma.top
 smokescout.top
 smokeconfide.top
@@ -119997,5 +119998,4 @@ createshareunited.hopto.org
 nowegohard.hopto.org
 abdo.hopto.org
 latestspyhostincsub.hopto.org
-sangos121.hopto.org
 
