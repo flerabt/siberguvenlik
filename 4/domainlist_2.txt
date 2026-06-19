@@ -1,3 +1,5 @@
+pttgov-xy.top
+pttgov-dj.top
 pttgov-cp.top
 pttgov-zo.top
 pttgov-bd.top
@@ -119996,6 +119998,4 @@ specialtysalmon.top
 specialtypoke.top
 specialtyatlas.top
 specializesynthesise.top
-specializemilitant.top
-specializeforfeit.top
 
