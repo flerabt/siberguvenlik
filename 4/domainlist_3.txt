@@ -1,3 +1,8 @@
+specializeflare.top
+specializecollision.top
+specializationturmoil.top
+specialitypending.top
+specialitypatronize.top
 specialityejection.top
 specialitydebut.top
 specialitycathedral.top
@@ -119993,9 +119998,4 @@ godwin231.zapto.org
 troyano.zapto.org
 facetime.zapto.org
 egypt.zapto.org
-benders.zapto.org
-oxygen-opss.zapto.org
-behlul.zapto.org
-liiion777.zapto.org
-capooo.zapto.org
 
