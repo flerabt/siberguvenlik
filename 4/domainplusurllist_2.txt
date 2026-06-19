@@ -1,3 +1,8 @@
+pttgov-cp.top
+pttgov-zo.top
+pttgov-bd.top
+pttgov-wf.top
+pttgov-ii.top
 pttgov-hf.top
 pttgov-ko.top
 pttgov-cw.top
@@ -119993,9 +119998,4 @@ specialtyatlas.top
 specializesynthesise.top
 specializemilitant.top
 specializeforfeit.top
-specializeflare.top
-specializecollision.top
-specializationturmoil.top
-specialitypending.top
-specialitypatronize.top
 
