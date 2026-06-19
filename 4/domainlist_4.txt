@@ -1,3 +1,5 @@
+facetime.zapto.org
+egypt.zapto.org
 benders.zapto.org
 oxygen-opss.zapto.org
 behlul.zapto.org
