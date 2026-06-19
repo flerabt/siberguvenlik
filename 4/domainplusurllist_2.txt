@@ -1,3 +1,15 @@
+pttgov-cw.top
+pttgov-wx.top
+pttgov-ac.top
+pttgov-c.top
+pttgvo-ts.top
+pttgov-qo.top
+pttgvo-tw.top
+pttgov-wm.top
+websorgu-cezaihlal.icu
+pttgvo-ta.top
+pttgov-kd.top
+pttgov-hq.top
 pttgov-zh.top
 pttgov-xk.top
 pttgov-bh.top
@@ -119986,16 +119998,4 @@ specialitypending.top
 specialitypatronize.top
 specialityejection.top
 specialitydebut.top
-specialitycathedral.top
-specialitybilateral.top
-specialitioncoral.top
-specialistlogistics.top
-specialistherb.top
-specialisezoom.top
-specialisehike.top
-specialisealmighty.top
-specialisationterrain.top
-specialisationtactic.top
-specialisationoutlaw.top
-specialevaporation.top
 
