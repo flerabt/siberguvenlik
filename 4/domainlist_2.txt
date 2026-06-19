@@ -1,3 +1,13 @@
+pttgov-zh.top
+pttgov-xk.top
+pttgov-bh.top
+pttgov-zk.top
+pttgov-od.top
+pttgov-bz.top
+pttgov-kz.top
+pttgov-ct.top
+pttgov-xd.top
+pttgov-yf.top
 pttgov-qy.top
 pttgov-bo.top
 pttgov-wq.top
@@ -119988,14 +119998,4 @@ specialisationterrain.top
 specialisationtactic.top
 specialisationoutlaw.top
 specialevaporation.top
-specialentrust.top
-specialembodiment.top
-specialealmighty.top
-spec21taclesituate.top
-speargrope.top
-spearadhere.top
-speakpage.top
-speakerob.top
-speakerfragility.top
-speakaggravation.top
 
