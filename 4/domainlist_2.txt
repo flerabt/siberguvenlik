@@ -1,3 +1,5 @@
+pttgov-qq.top
+pttgov-bw.top
 pttgov-xy.top
 pttgov-dj.top
 pttgov-cp.top
@@ -119996,6 +119998,4 @@ speciesembark.top
 specialtyslaughter.top
 specialtysalmon.top
 specialtypoke.top
-specialtyatlas.top
-specializesynthesise.top
 
