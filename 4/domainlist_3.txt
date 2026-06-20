@@ -1,3 +1,6 @@
+spectrumhypothetical.top
+spectrumalignment.top
+spectatorplumber.top
 spectatorexotic.top
 spectatordeductive.top
 spectacularstudent.top
@@ -119995,7 +119998,4 @@ leaflookgt.zapto.org
 craftminepe.zapto.org
 op37.zapto.org
 kievrada2.zapto.org
-ayaton.zapto.org
-hacker-anonyme.zapto.org
-fizan.zapto.org
 
