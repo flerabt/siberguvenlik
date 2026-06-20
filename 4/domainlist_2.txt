@@ -1,3 +1,14 @@
+pttgov-qc.top
+pttgov-wb.top
+pttgov-it.top
+pttgov-cs.top
+pttgov-zj.top
+pttgov-wt.top
+pttgov-kk.top
+pttgov-kt.top
+pttgov-ky.top
+pttgov-ca.top
+pttgov-qh.top
 pttgov-hx.top
 pttgov-du.top
 pttgov-kp.top
@@ -119987,15 +119998,4 @@ spectrumindefinite.top
 spectrumhypothetical.top
 spectrumalignment.top
 spectatorplumber.top
-spectatorexotic.top
-spectatordeductive.top
-spectacularstudent.top
-spectacularpharmacy.top
-spectacularisle.top
-spectaculardistort.top
-spectacularattitude.top
-spectacularapron.top
-spectacularanother.top
-spectacleviable.top
-spectaclecontemplate.top
 
