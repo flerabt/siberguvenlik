@@ -1,3 +1,11 @@
+specificationtestimony.top
+specificationcontemplate.top
+specificallywrestle.top
+specificallyfrown.top
+speciesembark.top
+specialtyslaughter.top
+specialtysalmon.top
+specialtypoke.top
 specialtyatlas.top
 specializesynthesise.top
 specializemilitant.top
@@ -119990,12 +119998,4 @@ jsimg.zapto.org
 brodangi.zapto.org
 kevte26.zapto.org
 gitanes82.zapto.org
-italianobro.zapto.org
-hostnamefourmyrat.zapto.org
-tcp.zapto.org
-doctordentista.zapto.org
-lovesyr.zapto.org
-dasdgs.zapto.org
-myuser1.zapto.org
-servicepaypalhere.zapto.org
 
