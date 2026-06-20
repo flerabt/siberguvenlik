@@ -1,3 +1,6 @@
+specifybolster.top
+specifyaugmentation.top
+specificobservatory.top
 specificlawsuit.top
 specificationtestimony.top
 specificationcontemplate.top
@@ -119995,7 +119998,4 @@ nod32.zapto.org
 bintoo.zapto.org
 elgazzar.zapto.org
 13377331.zapto.org
-jsimg.zapto.org
-brodangi.zapto.org
-kevte26.zapto.org
 
