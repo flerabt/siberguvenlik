@@ -1,3 +1,11 @@
+spendquit.top
+spendpractitioner.top
+spellway.top
+spellunfold.top
+spellrepress.top
+spellingsubmerge.top
+spellingpoised.top
+spellingobstruction.top
 spellingdisperse.top
 spellingacupuncture.top
 spelleradication.top
@@ -119990,12 +119998,4 @@ mamahona.zapto.org
 padla666.zapto.org
 syrianow1.zapto.org
 daviswc.zapto.org
-gwctest.zapto.org
-morter88.zapto.org
-paggajwz.zapto.org
-rwagen.zapto.org
-foreverkoora.zapto.org
-tranix.zapto.org
-krieten.zapto.org
-hgvdhk.zapto.org
 
