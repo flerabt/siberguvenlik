@@ -1,3 +1,9 @@
+pttgov-hx.top
+pttgov-du.top
+pttgov-kp.top
+pttgov-xp.top
+pttgov-os.top
+pttgov-yw.top
 pttgov-cj.top
 pttgov-za.top
 pttgov-kg.top
@@ -119992,10 +119998,4 @@ spectacularapron.top
 spectacularanother.top
 spectacleviable.top
 spectaclecontemplate.top
-speciomxual.top
-specimercastic.top
-specimenignite.top
-specifything.top
-specifypersecution.top
-specifyjunction.top
 
