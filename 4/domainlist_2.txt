@@ -1,3 +1,6 @@
+pttgov-cj.top
+pttgov-za.top
+pttgov-kg.top
 pttgov-xg.top
 pttgov-wp.top
 pttgvo-tz.top
@@ -119995,7 +119998,4 @@ specimenignite.top
 specifything.top
 specifypersecution.top
 specifyjunction.top
-specifybolster.top
-specifyaugmentation.top
-specificobservatory.top
 
