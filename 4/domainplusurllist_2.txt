@@ -1,3 +1,4 @@
+pttgov-xg.top
 pttgov-wp.top
 pttgvo-tz.top
 pttgov-qz.top
@@ -119997,5 +119998,4 @@ specifyjunction.top
 specifybolster.top
 specifyaugmentation.top
 specificobservatory.top
-specificlawsuit.top
 
