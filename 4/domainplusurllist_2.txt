@@ -1,3 +1,11 @@
+pttgov-wp.top
+pttgvo-tz.top
+pttgov-qz.top
+pttgov-hd.top
+pttgov-bn.top
+pttgov-fq.top
+pttgvo-tq.top
+pttgov-wg.top
 pttgov-qq.top
 pttgov-bw.top
 pttgov-xy.top
@@ -119990,12 +119998,4 @@ specifybolster.top
 specifyaugmentation.top
 specificobservatory.top
 specificlawsuit.top
-specificationtestimony.top
-specificationcontemplate.top
-specificallywrestle.top
-specificallyfrown.top
-speciesembark.top
-specialtyslaughter.top
-specialtysalmon.top
-specialtypoke.top
 
