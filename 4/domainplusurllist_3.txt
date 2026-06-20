@@ -1,3 +1,6 @@
+spokesmanpartition.top
+spokesmanelaborately.top
+spokesmanbibliography.top
 spoilsort.top
 spoilglitter.top
 spoilflush.top
@@ -119995,7 +119998,4 @@ essabmw.zapto.org
 home112.zapto.org
 feisty787.zapto.org
 hack-c4.zapto.org
-vitalis.zapto.org
-iibbrr.zapto.org
-ese3.zapto.org
 
