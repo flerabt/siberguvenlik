@@ -1,3 +1,6 @@
+sportsmanendowment.top
+sportsmanelasticity.top
+spoonsugar.top
 spoonplausible.top
 spoonfulinborn.top
 spoonconnotation.top
@@ -119995,7 +119998,4 @@ kalino1.zapto.org
 n5.zapto.org
 utopy.zapto.org
 mona123.zapto.org
-jayhost.zapto.org
-adrianmt262.zapto.org
-configs.zapto.org
 
