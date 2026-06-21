@@ -1,3 +1,7 @@
+indiapost.skin
+indiapostigu.sbs
+indiapostvg.sbs
+indiapostdm.sbs
 indiapostgo.life
 indiapost-in.com
 indiapostq.xyz
@@ -119994,8 +119998,4 @@ stabilitycarve.top
 stabilisestagnant.top
 stabhelme.top
 ssfecm.top
-ssetialjunction.top
-ss9n1ti.cn
-ss9hykk.cn
-squirrelaccident.top
 
