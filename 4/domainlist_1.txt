@@ -1,3 +1,4 @@
+20bintanekonutaciksatisda.vercel.app
 toekibassvur.vercel.app
 sosyalkonutbasvurular.cfd
 gokarcas.store
@@ -119997,5 +119998,4 @@ indiapostscv.top
 indiapostcp.buzz
 indiapostcw.top
 indiapostalcode.org
-indiapostusa.icu
 
