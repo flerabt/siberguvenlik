@@ -1,3 +1,9 @@
+steamydeterrent.top
+steamyanonymous.top
+steamyactivate.top
+steamshowcase.top
+steamlivestock.top
+steamersalutation.top
 steamerolive.top
 steamerencyclopedia.top
 steamerbald.top
@@ -119992,10 +119998,4 @@ logpnc.duckdns.org
 sawyido.duckdns.org
 vbdsg.duckdns.org
 cpxul3jh.duckdns.org
-webdata-mijnalerts.duckdns.org
-seepa.duckdns.org
-sjfdb.duckdns.org
-snmpl.duckdns.org
-tdzwr.duckdns.org
-spin-event-freefire-terbaru.duckdns.org
 
