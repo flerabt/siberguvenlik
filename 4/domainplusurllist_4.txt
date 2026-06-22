@@ -1,3 +1,9 @@
+webdata-mijnalerts.duckdns.org
+seepa.duckdns.org
+sjfdb.duckdns.org
+snmpl.duckdns.org
+tdzwr.duckdns.org
+spin-event-freefire-terbaru.duckdns.org
 prcsupdate-0069468.duckdns.org
 hlevcik.duckdns.org
 tfqpb.duckdns.org
