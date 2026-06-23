@@ -1,3 +1,6 @@
+strikecreek.top
+strikeconviction.top
+strieprocol.top
 strictretrieval.top
 strictdegeneration.top
 strictadversity.top
@@ -119995,7 +119998,4 @@ clouddoma.hopto.org
 experience1994.hopto.org
 choppertext.hopto.org
 eutq.hopto.org
-viper.hopto.org
-fluffy.hopto.org
-1q.hopto.org
 
