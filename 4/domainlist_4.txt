@@ -1,3 +1,6 @@
+mc-oza.zapto.org
+fadi01.zapto.org
+nwoccs.zapto.org
 google-services.zapto.org
 lemayojo.zapto.org
 celsodns.zapto.org
