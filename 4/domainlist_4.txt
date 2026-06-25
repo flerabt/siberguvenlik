@@ -1,3 +1,5 @@
+servhost.hopto.org
+intl-servceaccnt.hopto.org
 bebeblessedlogzmore.hopto.org
 resgatando.hopto.org
 anthems-log2129.hopto.org
