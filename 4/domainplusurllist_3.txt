@@ -1,3 +1,5 @@
+surfaceequation.top
+surfacealternation.top
 sureturbulent.top
 suretrench.top
 sureprosecution.top
@@ -119996,6 +119998,4 @@ zara.zapto.org
 pescad0r.zapto.org
 realmadred2013.zapto.org
 announo.zapto.org
-tima.zapto.org
-sync.zapto.org
 
