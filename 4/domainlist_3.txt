@@ -1,3 +1,5 @@
+targetpremature.top
+taperepressive.top
 tapegrid.top
 tapeevaporation.top
 tapedenote.top
@@ -119996,6 +119998,4 @@ ppxmu9.duckdns.org
 gj2ug1.duckdns.org
 o3khsj.duckdns.org
 5jwqlfj.duckdns.org
-qzse05.duckdns.org
-owx7cf.duckdns.org
 
