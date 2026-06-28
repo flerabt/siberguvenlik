@@ -1,3 +1,8 @@
+km-sorgu-avmptt.firebaseapp.com
+ptt-avm-kmsorgu.web.app
+ptt-avm-kmsorgu.firebaseapp.com
+km-sorgu-avmptt.web.app
+paribuarabasansi.com
 halk-kredi.vercel.app
 kmkmsorgulamazfer.web.app
 kmkmsorgulamazfer.firebaseapp.com
@@ -119993,9 +119998,4 @@ firsatlarkapinda.com.tr
 c-l-i-m-a-t-e-a-1-0-1.site
 rb.redenergy-redbull-drink.com
 234529032992381.com
-sahibinden.ozel-ilanlariniz.com
-sinirlistok.com.tr
-reddrectservices.com
-comtr-firsalarii.com
-fnansmobilaktivasyon.vercel.app
 
