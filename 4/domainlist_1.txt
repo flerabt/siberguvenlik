@@ -1,3 +1,6 @@
+pttavm-arac-sorgulama.web.app
+trsiparisbilgi.online
+odeme-ilanim-48776.com
 km-sorgu-avmptt.firebaseapp.com
 ptt-avm-kmsorgu.web.app
 ptt-avm-kmsorgu.firebaseapp.com
@@ -119995,7 +119998,4 @@ iadekontroller.net
 onlineavm-eptt.com
 b-o-s-c-h-c-l-i-m-a-t-e.website
 firsatlarkapinda.com.tr
-c-l-i-m-a-t-e-a-1-0-1.site
-rb.redenergy-redbull-drink.com
-234529032992381.com
 
