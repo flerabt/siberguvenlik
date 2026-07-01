@@ -1,3 +1,5 @@
+transferenceknob.top
+transfercapable.top
 transcriptregimental.top
 transcriptoverride.top
 transcendpyramid.top
@@ -119996,6 +119998,4 @@ updater.zapto.org
 mamon.zapto.org
 mohooooo.zapto.org
 dalypz.zapto.org
-hackerman12.zapto.org
-cescmouad.zapto.org
 
