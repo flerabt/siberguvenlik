@@ -1,3 +1,9 @@
+winserver.zapto.org
+wallaceleandro.zapto.org
+vpnhost123.zapto.org
+utilesat.zapto.org
+unix.zapto.org
+twentyone.zapto.org
 timodz2013.zapto.org
 testingr.zapto.org
 syrianow.zapto.org
