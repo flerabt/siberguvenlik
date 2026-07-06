@@ -1,3 +1,7 @@
+veinproximity.top
+veildread.top
+vehiclevoice.top
+vehiclevegetation.top
 vehiclesubtle.top
 vehicleconsider.top
 vehicleaugment.top
@@ -119994,8 +119998,4 @@ uasere.ddns.net
 kackrock.ddns.net
 ritorno-online.ddns.net
 amendegouv.ddns.net
-amendesgouv.ddns.net
-foitkdndboptpddsup.ddns.net
-myhostjayz.ddns.net
-virus123.ddns.net
 
