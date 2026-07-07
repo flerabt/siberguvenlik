@@ -1,3 +1,5 @@
+verbinfrastructure.top
+verbalmilitancy.top
 verbalindict.top
 venueproximate.top
 venueemancipate.top
@@ -119996,6 +119998,4 @@ lhfipsjory.duckdns.org
 wmbodesi.duckdns.org
 srta95l9.duckdns.org
 yycshi5.duckdns.org
-tdoxtjtf.duckdns.org
-vkrqmy.duckdns.org
 
