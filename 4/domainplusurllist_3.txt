@@ -1,3 +1,5 @@
+warrantymilestone.top
+warrantymandatory.top
 warranthome.top
 warrantenclose.top
 warrantaudit.top
@@ -119996,6 +119998,4 @@ indigopeter.ddns.net
 myapplecardsupport.ddns.net
 enhanced821.ddns.net
 al3mdhh2ckeeeer.ddns.net
-baylak.ddns.net
-saurondascome.ddns.net
 
