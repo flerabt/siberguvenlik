@@ -1,3 +1,4 @@
+acikdenizv4denizbankmobil.ml
 acikdenizv4denizbankmobil.cf
 rebimcell.com
 s-param-guvende-hizmet.com
@@ -119997,5 +119998,4 @@ urhrym660.duckdns.org
 mjrakksbpm.duckdns.org
 jiyw2qp.duckdns.org
 nelnpplhcb.duckdns.org
-sgayupkfup.duckdns.org
 
