@@ -5559,4 +5559,3 @@ bit.ly/2G8QrgL
 185.203.118.198/en_action_device/center_correct_customer/drivers-i7-x86.php
 145.249.105.165/resource-store/stockroom-center-service/check.php
 
-http://tunnels-prod-rel-jpe1-v3-cluster.japaneast.cloudapp.azure.com
