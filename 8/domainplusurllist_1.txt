@@ -1,3 +1,7 @@
+ssl.blsouqs.com
+blsouqs.com
+tajikistandip.com
+tj.tajikistandip.com
 gosats.us
 npmjs.us.org
 mslearn.online
