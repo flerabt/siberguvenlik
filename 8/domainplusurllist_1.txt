@@ -1,3 +1,7 @@
+pypi-get.com
+js-mirror.com
+npm-cache.com
+cdns3.51quickfox.cn
 alphastore.vg
 pending-verification.com
 nxtdrcliam.site
