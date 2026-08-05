@@ -1,3 +1,4 @@
+mangorbit.com
 pypi-get.com
 js-mirror.com
 npm-cache.com
