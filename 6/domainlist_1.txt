@@ -63038,6 +63038,9 @@ camco.com.pk
 best2.thebestconference.org
 bangortalk.org.uk
 fn459u8snkga.org
+cardo.workers.dev
+soft-feather-7807.0x.cloudflare-workers.workers.dev
+violet-87cardo.workers.dev
 oob-worker.cf99-9b3.workers.dev
 oob-worker.cf103-070.workers.dev
 package-proxy.cf8oobworker.workers.dev
