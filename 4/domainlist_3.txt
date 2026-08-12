@@ -1,3 +1,6 @@
+lnstagram-yardim.cf
+lnstagram-copyright-steam.ml
+help-copyrightlnstagram.ml
 lnstagrams-copyright.cf
 lnstagramcopyrightsclient.ga
 lnstagram-copyright-help.cf
@@ -119995,7 +119998,4 @@ aty2jwkmy.duckdns.org
 gtpt0trc.duckdns.org
 7escif0i.duckdns.org
 f65f4cxxo.duckdns.org
-f4rqbbf.duckdns.org
-c44mmse.duckdns.org
-hutw45wla.duckdns.org
 
