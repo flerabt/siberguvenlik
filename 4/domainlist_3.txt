@@ -1,3 +1,7 @@
+odemeon.cf
+odemeon.ml
+odemeon.tk
+odemeon.gq
 odemeon.ga
 edevlet-aldat-iadetbirimi.com
 hakkindakisilkaayetlerigor.tk
@@ -82994,6 +82998,7 @@ e-devlet-aidatiadengovtr.com
 ekpaket-kampanya-turkcell.com
 edevletportalkapi.com
 vatandas-giris-portal.org
+vatandas-giris-portal.org
 e-kapimimza.com
 basvuru-forumu-gov-tr.com
 vatandaslara-iade-gov-tr.com
@@ -84993,7 +84998,6 @@ xn--turkygovtr-q7a46f.com
 vatandas-iadeportalim.com
 vatandas-iadeportali.com
 aidat-iadeportali.com
-www-edevlet-bilgiiade.com
 edevletim-aidat-basvurum.com
 tr-edevlet-giris.com
 e-devletlmerkezi.com
@@ -98994,6 +98998,7 @@ yapikrediz.com
 garantkazanci.com
 qnb-kart-aidat-iadeleri-finansalhizmet.com
 webte-finansbank.com
+webte-finansbank.com
 q-n-b-kkbsorgu.com
 yapikrediv.com
 kuveytturkgiris.com
@@ -100993,7 +100998,6 @@ tr-deniz-cep.com
 tebiadenial.com
 halkbankasi-80.com
 kuveyt-firsatlari.com
-yapidayazzamani.com
 bireysel-musteri-bonuspuan-kampanya-tr.space
 denizden-hediyeler.com
 deniz-tr-cep.com
@@ -119994,8 +119998,4 @@ h0493g73.duckdns.org
 eda4xjadu.duckdns.org
 g1xz5oqo.duckdns.org
 gt3f0pu7j.duckdns.org
-members1st-brh.duckdns.org
-y4oykg810.duckdns.org
-n8f1wtb.duckdns.org
-axdkxkm.duckdns.org
 
