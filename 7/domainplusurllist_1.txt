@@ -1,3 +1,10 @@
+mq-task.qt-proxy.org
+qtproxy.xyz
+mq-result.qt-team.com
+securelink.qtproxy.xyz
+mq-result.qt-proxy.org
+mq-task.qt-team.com
+qt-proxy.org
 simacotex.com
 ddrtot.shop
 strakonltd.co.ug
