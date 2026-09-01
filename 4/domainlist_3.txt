@@ -1,3 +1,9 @@
+microsoftexchange329e70ec88ae46-omincrosft-us17.com
+mw-outbound-via-msoft365-onmicorsotf.com
+mx365server-officecrosoft365.com
+mxexchange-365office-mxexchange-crosoft365.com
+mxsecured-365server-officecrosoft365.com
+office-mail-micromail-microsoft.com
 office-mail-onmicrosoft.com
 office-mailonmicrosoft-onmicrosoft.com
 office-onmicrosoft-onmicrosoft.com
@@ -78998,12 +79004,6 @@ hizmetvakti-edevlet.com
 devlettenaidatiadevakti.com
 e-devletkartiadeportal.com
 edevletonlinegiriskapisigov-tr.com
-iadetalepleriniz.com
-edevletaidatiadelerimiz.com
-hizmetvakti-edevlet.com
-devlettenaidatiadevakti.com
-e-devletkartiadeportal.com
-edevletonlinegiriskapisigov-tr.com
 cimer-vatandas-portal.tk
 edevletiadelerbasvurususimdi.com
 edevlet-aidatabasvurungovtr.tk
@@ -84998,6 +84998,12 @@ devletfirsattkappisi.com
 e-iade-web-giris-aidatlari-turkiye-gov-tr.com
 edevlet-portali-govtr.com
 edevletkamuportal.com
+e-kapisi-webd-giris-edevlet-aidat-iadelerim-gov-tsdrsff.com
+e-devlet-portal-iade.com
+iadeformu-edevlet-webonline-subesi-tr.com
+turkiye-gov-tr-iadezel-bireysel.com
+e-devlet-basvurularigovtr.com
+giriis-turkiye.org
 edevlet-girisi.com
 xn--sbankasi-11a.com
 www-cimer-iade.co
@@ -93998,12 +94004,6 @@ subegiris-yapikredi.ga
 bireyselinternetwebsube.com
 aciksubeniz-yapikredi.com
 ing-loginturkey.com
-denizbankfirsatzamani.cf
-ceptetebmobil-comtr.tk
-subegiris-yapikredi.ga
-bireyselinternetwebsube.com
-aciksubeniz-yapikredi.com
-ing-loginturkey.com
 qnb-enpara6yilaozel.ml
 yapikredii-bireyselsubee.com
 interaktifbddk.tk
@@ -100998,6 +100998,12 @@ eyluldeteb.com
 garanti-web-bireysel.com
 subesizvakiffirsatlari.com
 gnbfinansbank.org
+finansbankenpara.org
+is-bankasi.biz
+finansbankgnbenpara.org
+finansbankqnb.org
+qnb-finansbank.org
+sende-kazandin.epizy.com
 qnbfinansbankenparan.com
 qnbfinansbankweb.com
 10gb-enpara.com
@@ -119992,10 +119998,4 @@ f6pyr0ozy.duckdns.org
 03n3vww1l.duckdns.org
 5p8yzpki.duckdns.org
 io8x7vt.duckdns.org
-4d371cds.duckdns.org
-3r7v0zv0q.duckdns.org
-myo6mc.duckdns.org
-jqltjmr.duckdns.org
-6y5rgyj.duckdns.org
-4siuxosir.duckdns.org
 
