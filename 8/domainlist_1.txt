@@ -1,3 +1,7 @@
+susi.bonto.run
+cloudflare.bonto.run
+snipex-iota.vercel.app
+dcfdc-eight.vercel.app
 cdn.stuseamandesilt.org
 updatebeacon.duckdns.org
 pdfviewer2024.b-cdn.net
