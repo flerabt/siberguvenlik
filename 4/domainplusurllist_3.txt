@@ -1,3 +1,7 @@
+acikdenizv4mobil.ml
+acikdenizv4mobil.cf
+acikdenizv3mobil.cf
+acikdenizv3mobil.gq
 acikdenizappv3.tk
 acikdenizv3mobil.ga
 acikdenizv4mobil.tk
@@ -119994,8 +119998,4 @@ f04wmrk.duckdns.org
 e8k9vlcsu.duckdns.org
 kbo0xsem.duckdns.org
 uc3egh.duckdns.org
-wellsfargo1-fradud1728931925.duckdns.org
-if8l1iy.duckdns.org
-qru230vf3.duckdns.org
-iiqd0g.duckdns.org
 
