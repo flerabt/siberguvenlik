@@ -1,3 +1,10 @@
+softupdate.ddns.net
+mctrx511.ddns.net
+mijnics-sslnet23.ddns.net
+goldauth.ddns.net
+portfoward.ddns.net
+musik-sa.ddns.net
+onsec1.ddns.net
 panelgrabber.ddns.net
 paqueta-espera.ddns.net
 deevo.ddns.net
