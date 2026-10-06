@@ -1,3 +1,6 @@
+denizcekilistogg.ml
+bn-trkampanya.ga
+bn-trkampanya.tk
 bn-trkampanya.cf
 acikdenizmobilv2lz.cf
 acikdenizmobilv2lz.gq
@@ -119995,7 +119998,4 @@ rz4gpa4.duckdns.org
 5cltkh.duckdns.org
 7iu0nff.duckdns.org
 wwlcz0.duckdns.org
-0lcb51.duckdns.org
-x8hrkk7rd.duckdns.org
-f5fyj1qph.duckdns.org
 
