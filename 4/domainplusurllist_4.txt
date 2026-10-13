@@ -1,3 +1,4 @@
+olympicgold.ddns.net
 timezone-update.duckdns.org
 searchstatistics.duckdns.org
 gabana14.duckdns.org
