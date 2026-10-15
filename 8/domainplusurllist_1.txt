@@ -1,3 +1,17 @@
+google.morelessty.com
+microsoft-ws-updates.serveftp.com
+google.centerhoti.com
+windows-update-ws.servehttp.com
+windows-update-server-microsoft.servehttp.com
+microsoft-service-manager.serveftp.com
+accounts.natrlyi.com
+sysupdate.serveftp.com
+cdn-redhatupdate.serveftp.com
+serviceupdate.dynns.com
+jmlh.morelessty.com
+google.natrlyi.com
+systeminfo.dynns.com
+catalog-update-unix-systems.servehttp.com
 nyxarst.lol
 polnet.lol
 nyxarstealer.lol
