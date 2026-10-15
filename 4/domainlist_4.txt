@@ -1,3 +1,4 @@
+soportestream.ddns.net
 oranfge.ddns.net
 cmgdns.ddns.net
 mariona.duckdns.org
