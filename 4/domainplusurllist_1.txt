@@ -1,3 +1,4 @@
+artikyalanyokye.sbs
 kartulisuperi.duckdns.org
 ptt.mobilservisler-75.sbs
 emalidosya.com
@@ -119997,5 +119998,4 @@ ledgxxerlive-loginn.webflow.io
 oauth--can-sso--kucoin--h.webflow.io
 help-traz--hardware.webflow.io
 sso---itrustcapital--com--auth.webflow.io
-secure-help-g-crypto-apps.webflow.io
 
