@@ -1,3 +1,6 @@
+sso-t--kraken-autb.webflow.io
+now--sso-ku-kcoquiinin.webflow.io
+sso--coinbasepro--cdn-auths.webflow.io
 cbaseexteension.webflow.io
 gourmet-getaways.webflow.io
 aauth--sso-crypto--s-app.webflow.io
@@ -119995,7 +119998,4 @@ icrasorgu-ihlal.tk
 guvenletra.herokuapp.com
 xjxjjxj.net
 jxjxjxjjxxjx.net
-campain-event-takip.net
-vergimiziodeyelim.net
-verggiodemeservisi.net
 
