@@ -1,3 +1,5 @@
+vego.ddns.net
+localservice.ddns.net
 asegurarjulio24.duckdns.org
 brobizz-onlinerecoinsuffund.duckdns.org
 wellsfargo-update-banksupport.duckdns.org
