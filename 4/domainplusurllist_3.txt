@@ -99998,6 +99998,7 @@ bddkiadeislemi.ml
 bddk-iadesi.ml
 www-online-cepsube-bayramfirsatlari.ga
 denizisubesi.com
+denizisubesi.com
 www-online-cepsube-bayramfirsatlari.cf
 bddk-iadesi.ga
 acikdeniz-denizbanlk.com
@@ -100997,7 +100998,6 @@ ilbahar-firsatlari-tr.ga
 akdirek-basvuruislemleri.com
 enpara-onlinewebsube.gq
 garantiramazankampanyasi.com
-enpara-ilkbaharsube-tr.cf
 ilkbahar-firsatlari-tr.ga
 ilkbahar-firsatlari-tr.tk
 acikbireyselim-yapikredi.com
