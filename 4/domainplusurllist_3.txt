@@ -1,3 +1,4 @@
+724hizmetmerkezi.ml
 yardimelimiz.cf
 evdeisimkani.cf
 evdeisimkani.ml
@@ -112997,7 +112998,6 @@ denizbank-mobilsube.com
 denizbank-cepsubesi.com
 denizbnak.com
 deniz-acikdenizbnk.com
-destek-acikdeniz.com
 destek-acikdeniz.com
 denizban-k.com
 tr-acikdenizbireyselsube.com
