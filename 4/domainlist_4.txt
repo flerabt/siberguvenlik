@@ -1,3 +1,9 @@
+ftp.prochem-au.com
+ftp.indra-precision.co.th
+ftp.siscop.com.co
+ftp.wymascensores.com
+ftp.globalsecurity.com.uy
+ftp.stingatoareincendii.ro
 ftp.zilchworld.com
 ftp.solucionesmexico.mx
 ftp.exact-thailand.com
