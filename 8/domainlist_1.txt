@@ -1,3 +1,5 @@
+gonewiththetide.surf
+zestyhollow9.gonewiththetide.surf
 bloonspace.com
 top-sec.oss-cn-beijing.aliyuncs.com
 assist-logs.oss-accelerate.aliyuncs.com
