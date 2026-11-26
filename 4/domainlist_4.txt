@@ -1,3 +1,4 @@
+linkerservice2upgrade.trade
 linkerservice2upgrades.download
 linkerservice2upgrades.bid
 linkerservice2upgrade.bid
